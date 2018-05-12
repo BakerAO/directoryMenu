@@ -1,0 +1,34 @@
+{
+  "name": "directorymenu",
+  "version": "1.0.0",
+  "description": "Menu for directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakerao/directoryMenu.git"
+  },
+  "author": "BakerAO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakerao/directoryMenu/issues"
+  },
+  "homepage": "https://github.com/bakerao/directoryMenu#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^4.8.2",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
